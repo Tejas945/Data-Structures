@@ -12,7 +12,7 @@ for c in name:
 #====================
 
 #======Using default dict=========
-from collections import default dict
+from collections import defaultdict
 d = defaultdict
 for c in name:
     d[c] +=1
