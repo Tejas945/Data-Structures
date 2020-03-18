@@ -9,3 +9,12 @@ for c in name:
   print(d)      
 # =====Output========
 #{'P': 1, 'y': 1, 't': 2, 'h': 1, 'o': 2, 'n': 3, 'm': 2, 'a': 1, 's': 1, 'e': 3, 'r': 2, 'u': 1, 'b': 1}
+#====================
+
+#======Using default dict=========
+from collections import default dict
+d = defaultdict
+for c in name:
+    d[c] +=1
+    
+ d
