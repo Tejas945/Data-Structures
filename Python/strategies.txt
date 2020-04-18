@@ -1,0 +1,14 @@
+Solve 3-8 problems per Day.
+Spend 10 mins for each problem trying to solve it.
+1)Top 100 problems
+2)Company specific
+Internship- Strings and Trees.
+Full time roles- Graph and DP.
+
+Stop applying to companies without referral. You end up wasting time applying and not able to prepare.
+
+Take more time in preparation.
+
+Give print statements to understand logic.
+
+Read Cracking the Coding Interview by solving the problems.
