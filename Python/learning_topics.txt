@@ -1,0 +1,20 @@
+Python-
+
+self keyword-
+
+Two types:
+1.Class Variables-does not change  
+2.Instance Variables- changes
+Refers to the class variables being share with the objects.
+
+eg.
+
+class SomeClass:
+    variable_1 = “ This is a class variable”
+    variable_2 = 100    #this is also a class variable.
+
+    def __init__(self, param1, param2):
+        self.instance_var1 = param1
+        #instance_var1 is a instance variable
+	self.instance_var2 = param2   
+        #instance_var2 is a instance variable
