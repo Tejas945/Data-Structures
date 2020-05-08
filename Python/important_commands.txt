@@ -1,0 +1,12 @@
+/opt/anaconda3/envs/python2
+
+# To activate this environment, use
+#
+#     $ conda activate python2
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Python 3
+/opt/anaconda3/bin/python
