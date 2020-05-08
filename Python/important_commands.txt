@@ -10,3 +10,4 @@
 
 Python 3
 /opt/anaconda3/bin/python
+https://stackoverflow.com/questions/24405561/how-to-install-2-anacondas-python-2-and-3-on-mac-os
