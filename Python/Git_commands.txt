@@ -1,0 +1,36 @@
+
+----------------------------------------------
+
+Git and Github :
+--------------
+Git is a VCS i.e Version Control Sytem for tracking changes in computer files and co-ordinating work on those files among multiple people.
+Github is a platform that hosts repositories and code for the developers to interact and work on the same codebase without any hesitation
+
+Git Commands : There are n number of commands in git, but we will use some of them very much.
+------------ 
+1. git init : It initializes an empty repository in the created folder.
+
+2. git add  : It adds the files that are newly created or modified to the repository.
+
+3. git status : It tells the status of the file in that repository.
+
+4. git commit : It commits the changes and adds a checkpoint to mark a certain completion. In this we also add "-m 'Message' ", where -m means adding the message to
+                commit and 'Message' is the message we want to be written with the commit.
+
+5. git remote add origin master : This command adds/links the origin of the original repository at github to the folder in our local machine.
+
+6. git push   : It pushes the committed code to the added orgin repository. In this we add "-u", followed by "orgin master" which ensures that we don't need to write origin
+                master again and again. All the other pushes are directed to the origin repository automatically.
+
+7. git pull : Incase there is changes in the online repository, new changes cannot be pushed as both are not in sync. SO in order to sync the repositories, we pull any new
+              changes in the online repository and thus downloading the changes into our local folder.
+
+8. git clone : This command helps us clone the online repository in our local machine. It is one of the methods of downloading the repositories. Either a zip file can be
+               downloaded or the repo can be cloned.
+
+9. git log : It gives us all the detaials or log of the commits made with a unique number and also the commit message.
+
+10. git config --global user.email "your@email.com" : When we first make a commit the computer does not know who is making a commit. So in order to recogonize the person
+                                                      who is making the commit we declare it globally that from this computer the commit is made by this email id.
+    
+11. git cofig --global user.name "Your Name" : Simialr to the previous command, it globally declaresb the name of the person making a commit from this computer.
